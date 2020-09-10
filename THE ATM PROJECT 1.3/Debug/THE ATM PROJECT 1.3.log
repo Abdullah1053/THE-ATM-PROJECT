@@ -1,0 +1,4 @@
+﻿  ATM.cpp
+C:\Users\alademi\source\repos\THE ATM PROJECT 1.3\THE ATM PROJECT 1.3\ATM.cpp(56,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\alademi\source\repos\THE ATM PROJECT 1.3\THE ATM PROJECT 1.3\ATM.cpp(51,6): warning C4101:  'pass': unreferenced local variable
+  THE ATM PROJECT 1.3.vcxproj -> C:\Users\alademi\source\repos\THE ATM PROJECT 1.3\Debug\THE ATM PROJECT 1.3.exe
